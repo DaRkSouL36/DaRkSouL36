@@ -60,7 +60,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ---
 
-### 🤖 [ML-Based Regression for Antenna Parameters[(https://github.com/DaRkSouL36/ANTENNA-ML) *(Academic Background Project)*  
+### 🤖 [ML-Based Regression for Antenna Parameters](https://github.com/DaRkSouL36/ANTENNA-ML) *(Academic Background Project)*  
 > 📈 Python, Scikit-learn, Matplotlib  
 - Trained multiple regression models to predict antenna metrics like gain and return loss  
 - Achieved strong R² scores and demonstrated simulation time reduction using ML  
