@@ -29,7 +29,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 ## 💼 CORE INTERESTS
 
 - Supervised & Unsupervised Learning  
-- Deep Learning: CNNs, RNNs, LSTMs  
+- Deep Learning: ANNs, CNNs, RNNs, LSTMs  
 - Natural Language Processing (NLP)  
 - Model Deployment & API Integration  
 - Data Cleaning, EDA & Feature Engineering  
