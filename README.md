@@ -51,7 +51,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ---
 
-### 🌍 Air Quality Index (AQI) Prediction System
+### 🌍 [Air Quality Index (AQI) Prediction System](https://github.com/DaRkSouL36/WEATHER)
 > 📊 Python, Pandas, Random Forest, CatBoost, Time-Series Analysis  
 - Processed 47k+ real-world AQI records from multiple sensors  
 - Conducted feature engineering and time-series modeling  
@@ -60,7 +60,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ---
 
-### 🤖 ML-Based Regression for Antenna Parameters *(Academic Background Project)*  
+### 🤖 [ML-Based Regression for Antenna Parameters[(https://github.com/DaRkSouL36/ANTENNA-ML) *(Academic Background Project)*  
 > 📈 Python, Scikit-learn, Matplotlib  
 - Trained multiple regression models to predict antenna metrics like gain and return loss  
 - Achieved strong R² scores and demonstrated simulation time reduction using ML  
