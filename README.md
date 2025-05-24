@@ -3,7 +3,7 @@
   <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi Profile Photo"/>
 </p>
 <p align="center">
-  <b>Machine Learning Engineer | Deep Learning Practitioner | NLP Developer</b><br>
+  <b> CS Undergrad | Aspiring Machine Learning Engineer | NLP & Deep Learning Enthusiast</b><br>
   <i>“Engineering intelligence through data, code, and curiosity.”</i>
 </p>
 
