@@ -1,7 +1,10 @@
 <h1 align="center">🔬 SHARAD SHAHI</h1>
 <p align="center">
-  <b>Engineering Researcher | Antenna Designer | ML Enthusiast</b><br>
-  <i>“Merging electromagnetics with intelligence to redefine wireless frontiers.”</i>
+  <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi Profile Photo"/>
+</p>
+<p align="center">
+  <b>Machine Learning Engineer | Deep Learning Practitioner | NLP Developer</b><br>
+  <i>“Engineering intelligence through data, code, and curiosity.”</i>
 </p>
 
 <p align="center">
@@ -10,106 +13,137 @@
   <a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-DaRkSouL36-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://leetcode.com/u/Sharad_Shahi/"><img src="https://img.shields.io/badge/LeetCode-Sharad_Shahi-FFA116?style=for-the-badge&logo=leetcode"/></a>
   <a href="https://codeforces.com/profile/DaRkSouL36"><img src="https://img.shields.io/badge/Codeforces-DaRkSouL36-1f8acb?style=for-the-badge"/></a>
+  <a href="https://drive.google.com/file/d/1UYHXmFf4kY_fWmHrjQzqnN9QzLw1f8aV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌟 ABOUT ME
+## 💻 ABOUT ME
 
-🔧 **Currently Working On**: Advanced microstrip patch antennas (GHz/THz) and machine learning-driven optimization methods  
-🤝 **Seeking Collaboration**: Academic & industry projects focused on AI-driven RF design and wireless systems  
-📈 **Learning Focus**: CST Studio simulations, ensemble ML techniques, microwave imaging  
-🧠 **Talk to Me About**: Antenna design, simulation, machine learning for engineering, and wireless innovation  
-🎯 **Fun Fact**: I bridge the gap between electromagnetics and data science with a passion for real-world impact  
+I'm a B.Tech Computer Science undergraduate with a Minor in Applied Machine Learning from the School of Electronics. I specialize in building data-driven applications and intelligent systems that solve real-world problems using machine learning, deep learning, and natural language processing (NLP).  
+
+With strong fundamentals in algorithms, data structures, and model optimization, I’ve led multiple end-to-end AI projects. My work reflects a passion for continuous learning, practical application, and innovation in the evolving field of Artificial Intelligence.
 
 ---
 
-## 🚀 KEY INTERESTS
+## 💼 CORE INTERESTS
 
-- Terahertz & Gigahertz Antenna Design  
-- Electromagnetic Simulation (CST Microwave Studio)  
-- AI/ML Applications in RF Optimization  
-- Microwave Imaging for Medical Applications  
-- Environmental Monitoring using ML  
-- Research-Driven Innovation in Wireless Communication  
-
----
-
-## 📌 FEATURED PROJECTS
-
-### 🔹 [ML-Based Optimization of Gigahertz Antenna Performance](https://github.com/DaRkSouL36/ANTENNA-ML)
-> 🧠 Python, Random Forest, ANN, CST Microwave Studio  
-- Achieved R² = 0.9343 with optimized return loss: -57.55 dB & gain: 7.91 dB  
-- Reduced CST simulation costs using ML model predictions  
-- Used hyperparameter tuning for performance uplift
+- Supervised & Unsupervised Learning  
+- Deep Learning: CNNs, RNNs, LSTMs  
+- Natural Language Processing (NLP)  
+- Model Deployment & API Integration  
+- Data Cleaning, EDA & Feature Engineering  
+- Scalable ML Pipelines  
+- Responsible & Ethical AI
+- Antenna Design Electromagnetic Simulation (CST Microwave Studio)  
 
 ---
 
-### 🔹 [THz Antenna Sensor for Breast Cancer Detection](https://drive.google.com/file/d/1EKGrSrpXqPGMR0qvSD7MFeeJ20HZaSNP/view?usp=sharing)
-> 🧪 CST Studio, MWI, Origin, Dielectric Analysis  
-- Developed hourglass microstrip antenna (0.93 THz) with -60.3 dB return loss  
-- Demonstrated tumor detection via S21 response differentials  
-- Contributed to early cancer diagnosis using EM sensing
+## 🚀 FEATURED PROJECTS
+
+### 📰 [Fake News Detection using NLP, Machine Learning & Deep Learning](https://github.com/DaRkSouL36/FAKE-NEWS-DETECTION)
+> 🛠 Python, Pandas, Scikit-learn, NLTK, TensorFlow, LSTM  
+- Built a fake news classification model leveraging machine learning, deep learning and NLP preprocessing pipelines  
+- Implemented LSTM-based text classification to detect misleading content from news headlines and articles  
+- Applied TF-IDF, tokenization, and word embeddings to represent semantic meaning  
+- Achieved high validation accuracy and real-time prediction via interactive UI  
+- Demonstrated end-to-end solution readiness with scope for integration in web systems
 
 ---
 
-### 🔹 [Air Quality Index (AQI) Prediction](https://github.com/DaRkSouL36/WEATHER)
-> 🌍 Random Forest, XGBoost, LGBM, Time-Series  
-- 47k+ records processed for AQI forecasting  
-- Achieved R² = 0.99985 with XGBoost; built scalable ML pipeline  
-- Applied advanced feature engineering and cross-validation
+### 🌍 Air Quality Index (AQI) Prediction System
+> 📊 Python, Pandas, Random Forest, CatBoost, Time-Series Analysis  
+- Processed 47k+ real-world AQI records from multiple sensors  
+- Conducted feature engineering and time-series modeling  
+- Achieved R² score of 0.99985 using optimized regression models  
+- Developed scalable ML pipelines for environmental forecasting
+
+---
+
+### 🤖 ML-Based Regression for Antenna Parameters *(Academic Background Project)*  
+> 📈 Python, Scikit-learn, Matplotlib  
+- Trained multiple regression models to predict antenna metrics like gain and return loss  
+- Achieved strong R² scores and demonstrated simulation time reduction using ML  
 
 ---
 
 ## 🧠 TECH STACK
 
-### 📐 Antenna & Simulation
-![CST Studio](https://img.shields.io/badge/CST--Microwave--Studio-blue?style=flat-square) ![Origin](https://img.shields.io/badge/OriginLab-Data%20Analysis-orange?style=flat-square)
-
-### 🔬 Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+### 📚 MACHINE LEARNING & DEEP LEARNING
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-green?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-lightgreen?style=flat-square)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-WordProcessing-yellow?style=flat-square)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
-### 💻 Programming
+### 🐍 PROGRAMMING & SCRIPTING
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
 
-### 🌐 Web & Tools
+### 🌐 WEB DEVELOPMENT & API
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+### 📐 ANTENNA & SIMULATION
+![CST Studio](https://img.shields.io/badge/CST--Microwave--Studio-blue?style=flat-square) 
+![Origin](https://img.shields.io/badge/OriginLab-Data%20Analysis-orange?style=flat-square)
+
+### ⚙️ TOOLS & ENVIRONMENTS
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf)
+![MS Office](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ---
 
-## 📚 CERTIFICATIONS
+## 🎓 CERTIFICATIONS
 
-- 🏅 **ESMAC-2024 Presenter** – *Wireless Communication & ML-Aided Antenna Design*  
-- 📘 **AWS Academy ML Foundations** – 20-hour foundation course on AWS ML  
-- 🛠 **Agile Software Development** – LinkedIn Learning, Agile methodologies
+- 🧠 **[AWS Machine Learning Foundations – AWS Academy](https://www.credly.com/go/P9lN1bcM)**  
+  Explored AI/ML fundamentals, model training, data pipeline design, and deployment on AWS  
+  *(Credentialed via AWS Educate Academy)*
+
+- ☁️ **[AWS Cloud Foundations – AWS Academy](https://www.credly.com/go/zmyQT8Gj)**  
+  Covered core AWS services, global infrastructure, security, and cost optimization  
+  *(Credentialed via AWS Educate Academy)*
+
+- 🌀 **[Agile Foundations – LinkedIn Learning](https://www.linkedin.com/learning/certificates/08ff8b2fc8cfe3bc0de4d654b154931fd45ecdcc736352ac585aa67e4cf4fee0?trk=share_certificate)**  
+  Developed team collaboration and iterative development strategies using Agile principles  
+  *(Applied in managing multi-phase ML projects)*
 
 ---
 
-## 🎤 TALKS & PRESENTATIONS
+## 📌 WHAT I’M DOING NOW
 
-- 📢 *Presented research* on THz antennas at ESMAC-2024  
-- 👨‍🏫 *Mentored peers* on patch antenna simulation at Nanosensor Lab
+🚧 **Currently Building**:  
+A complete Fake News Detection system integrating NLP pipelines, LSTM-based classifiers, and a user-friendly web interface.
 
----
+📘 **Learning Focus**:  
+- Transformers & Attention Mechanisms  
+- TensorFlow Model Optimization & Quantization  
+- Python FastAPI for production-ready APIs  
+- Real-time deployment with Streamlit and Docker
 
-## 📄 RESUME & PORTFOLIO
-
-📄 [View Resume (PDF)](https://drive.google.com/file/d/1_NbeV4_A5hfiI6xki2yrrtCgaFj6CHzB/view?usp=sharing)  
-🧪 [ANTENNA-ML GitHub Repo](https://github.com/DaRkSouL36/ANTENNA-ML)  
-🌍 [AQI Prediction GitHub Repo](https://github.com/DaRkSouL36/WEATHER)
+🤝 **Open To Collaborate On**:  
+- Applied ML/NLP use cases  
+- Student research communities or hackathons  
+- Lightweight ML systems for mobile or embedded platforms
 
 ---
 
@@ -129,12 +163,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
-</p>
-
----
-
-## 🔗 VISITOR COUNT
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DaRkSouL36&icon=8&color=0"/>
 </p>
