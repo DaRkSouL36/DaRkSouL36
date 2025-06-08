@@ -47,7 +47,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ### 📰 | [Real-Time Fake News Detection Using Deep Learning, NLP & LLM Integration](https://github.com/DaRkSouL36/FAKE-NEWS-DETECTION)
 
-> 🛠 \*Python, Scikit-learn, TensorFlow, Keras, NLP, NLTK, FastApi, LLM(Microsof|Phi-2), HTML/CSS/JS, SQL
+> 🛠 Python, Scikit-learn, TensorFlow, Keras, NLP, NLTK, FastApi, LLM(Microsof|Phi-2), HTML/CSS/JS, SQL
 
 - Designed and deployed a **full-stack fake news detection system** integrating **NLP preprocessing** (_tokenization, lemmatization, stopword removal, Count/TF-IDF vectorization_) for linguistic normalization.
 - Trained and benchmarked traditional ML models (**Logistic Regression**, **Random Forest**, **SVM**), and advanced **DL architectures** (**ANN**, **CNN**, **LSTM**) using **TensorFlow/Keras**, achieving up to **99.6% accuracy** on the _Kaggle Fake News dataset_.
