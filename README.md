@@ -17,7 +17,7 @@
   <a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-DaRkSouL36-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://leetcode.com/u/Sharad_Shahi/"><img src="https://img.shields.io/badge/LeetCode-Sharad_Shahi-FFA116?style=for-the-badge&logo=leetcode"/></a>
   <a href="https://codeforces.com/profile/DaRkSouL36"><img src="https://img.shields.io/badge/Codeforces-DaRkSouL36-1f8acb?style=for-the-badge"/></a>
-  <a href="https://drive.google.com/file/d/1UYHXmFf4kY_fWmHrjQzqnN9QzLw1f8aV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1IzsV8bc1vcQQK2J7c_QDH54O0sLv6kf0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
