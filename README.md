@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <b> CSE Undergrad | Aspiring Machine Learning Engineer | NLP & Deep Learning Enthusiast</b><br>
-  <i>“Engineering intelligence through data, code, and curiosity.”</i>
+  <i>“Engineering intelligence through data, code, and curiosity!”</i>
 </p>
 
 <p align="center">
