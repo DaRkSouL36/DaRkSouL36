@@ -117,7 +117,6 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
 
 ### 🌐 WEB DEVELOPMENT & API
 
