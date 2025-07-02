@@ -12,19 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sharadshahi36@gmail.com"><img src="https://img.shields.io/badge/email-sharadshahi36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nextgenml/"><img src="https://img.shields.io/badge/LinkedIn-SharadShahi-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-DaRkSouL36-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/Sharad_Shahi/"><img src="https://img.shields.io/badge/LeetCode-Sharad_Shahi-FFA116?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://codeforces.com/profile/DaRkSouL36"><img src="https://img.shields.io/badge/Codeforces-DaRkSouL36-1f8acb?style=for-the-badge"/></a>
-  <a href="https://drive.google.com/file/d/1IzsV8bc1vcQQK2J7c_QDH54O0sLv6kf0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="mailto:sharadshahi36@gmail.com"><img src="https://img.shields.io/badge/email-sharadshahi36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nextgenml/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-DaRkSouL36-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://leetcode.com/u/Sharad_Shahi/"><img src="https://img.shields.io/badge/LeetCode-Sharad_Shahi-FFA116?style=for-the-badge&logo=leetcode"/></a>
+<a href="https://codeforces.com/profile/DaRkSouL36"><img src="https://img.shields.io/badge/Codeforces-DaRkSouL36-1f8acb?style=for-the-badge"/></a>
+<a href="https://drive.google.com/file/d/1IzsV8bc1vcQQK2J7c_QDH54O0sLv6kf0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+
 </p>
 
 ---
 
 ## 💻 | ABOUT ME
 
-I'm a B.Tech Computer Science undergraduate with a Minor in Applied Machine Learning from the School of Electronics. I specialize in building data-driven applications and intelligent systems that solve real-world problems using machine learning, deep learning, and natural language processing (NLP).
+I'm a final-year B.Tech Computer Science undergraduate with a Minor in Applied Machine Learning offered by the School of Electronics, reflecting strong interdisciplinary grounding across software systems, machine learning, and antenna simulation. I specialize in building data-driven applications and intelligent systems that solve real-world problems using machine learning, deep learning, and natural language processing (NLP).
 
 With strong fundamentals in algorithms, data structures, and model optimization, I’ve led multiple end-to-end AI projects. My work reflects a passion for continuous learning, practical application, and innovation in the evolving field of Artificial Intelligence.
 
@@ -47,13 +48,13 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ### 📰 | [Real-Time Fake News Detection Using Deep Learning, NLP & LLM Integration](https://github.com/DaRkSouL36/FAKE-NEWS-DETECTION)
 
-> 🛠 Python, Scikit-learn, TensorFlow, Keras, NLP, NLTK, FastApi, LLM(Microsof|Phi-2), HTML/CSS/JS, SQL
+> 🛠 Python, Scikit-learn, TensorFlow, Keras, NLP, NLTK, FastApi, LLM(Microsof|Phi-2), HTML/CSS/JS, Supabase
 
 - Designed and deployed a **full-stack fake news detection system** integrating **NLP preprocessing** (_tokenization, lemmatization, stopword removal, Count/TF-IDF vectorization_) for linguistic normalization.
 - Trained and benchmarked traditional ML models (**Logistic Regression**, **Random Forest**, **SVM**), and advanced **DL architectures** (**ANN**, **CNN**, **LSTM**) using **TensorFlow/Keras**, achieving up to **99.6% accuracy** on the _Kaggle Fake News dataset_.
 - Integrated **Large Language Model (LLM)** for enhanced **semantic analysis** and **explanation generation**, improving interpretability and user trust by **60%**.
 - Developed a **RESTful API** with **FastAPI**, supporting **real-time news article classification** and **feedback submission** from a modern web frontend.
-- Implemented **user feedback** using **SQL** database integration, driving **30% increase** in engagement and feedback rates, enabling iterative model improvement.
+- Implemented **user feedback** using **Supabase** database integration, driving **30% increase** in engagement and feedback rates, enabling iterative model improvement.
 - Accomplished a **real-world impact** by enabling rapid, accurate **misinformation detection** for content moderation and media verification workflows.
 
 ---
@@ -70,7 +71,7 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ---
 
-### 📡 | [ML-Based Regression for Antenna Parameters](https://github.com/DaRkSouL36/ANTENNA-ML)
+### 📡 | [Advanced Antenna Design Optimization using Regression Techniques](https://github.com/DaRkSouL36/ANTENNA-ML)
 
 > 📈 Random Forest, Artificial Neural Network (ANN), Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
 
@@ -79,6 +80,18 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 - Predicted critical antenna parameters such as **return loss (-57.55 dB)**, **gain (7.91 dB)**, and **resonant frequency (14.48 GHz)**, significantly reducing simulation time and computational costs by over **80%**.
 - Improved model performance through **hyperparameter tuning** and analysis of **kernel functions** in **SVM models**, identifying optimal configurations for high-precision prediction.
 - Showcased the effectiveness of **AI-driven modeling** in accelerating **antenna design optimization** for **high-frequency communication systems**, enabling rapid prototyping and system-level trade-off analysis.
+
+---
+
+### 🩺 | [Design and Simulation of a THz Sensor for Breast Cancer Detection](https://drive.google.com/file/d/1_NbeV4_A5hfiI6xki2yrrtCgaFj6CHzB/view?usp=sharing)
+
+> 🧪 CST Microwave Studio, Origin, Microwave Imaging (MWI), Dielectric Property Analysis, Transmission Coefficient Analysis
+
+- Designed an innovative **hourglass-shaped microstrip patch antenna** optimized for **0.93 THz applications**, achieving a **return loss of -60.3 dB**, **gain of 7.05 dB**, and **VSWR below 2**.
+- Developed a high-resolution **microwave imaging (MWI)** model to distinguish between _normal_ and _malignant breast tissues_ based on their **dielectric properties**.
+- Simulated tumor detection scenarios using **adaptive meshing**, improving **imaging accuracy by over 20%** compared to conventional meshing methods.
+- Evaluated system efficiency by analyzing _\( S<sub>21</sub> \)_ transmission coefficients under varied tissue conditions, leading to a **15% improvement in tumor localization accuracy**.
+- Demonstrated the potential of **THz antennas** in **sustainable early-stage breast cancer detection**, reducing **computational cost by 25%** through optimized modeling techniques.
 
 ---
 
@@ -98,15 +111,17 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 
 ### 📚 MACHINE LEARNING & DEEP LEARNING
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-yellow?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement--Learning-black?style=flat-square&logo=openai&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-yellow?style=flat-square&logo=python&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
 ### 🐍 PROGRAMMING & SCRIPTING
@@ -138,24 +153,24 @@ With strong fundamentals in algorithms, data structures, and model optimization,
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf)
 ![MS Office](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ---
 
 ## 🎓 | CERTIFICATIONS
 
-- 🧠 **[AWS Machine Learning Foundations – AWS Academy](https://www.credly.com/go/P9lN1bcM)**  
-  Explored AI/ML fundamentals, model training, data pipeline design, and deployment on AWS  
-  _(Credentialed via AWS Educate Academy)_
+> _Total of 9+ verified certifications from IBM, AWS, Coursera, and LinkedIn — covering foundational to advanced ML workflows._
 
-- ☁️ **[AWS Cloud Foundations – AWS Academy](https://www.credly.com/go/zmyQT8Gj)**  
-  Covered core AWS services, global infrastructure, security, and cost optimization  
-  _(Credentialed via AWS Educate Academy)_
-
-- 🌀 **[Agile Foundations – LinkedIn Learning](https://www.linkedin.com/learning/certificates/08ff8b2fc8cfe3bc0de4d654b154931fd45ecdcc736352ac585aa67e4cf4fee0?trk=share_certificate)**  
-  Developed team collaboration and iterative development strategies using Agile principles  
-  _(Applied in managing multi-phase ML projects)_
+| Platform                                                                                                    | Certification                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)                   | [AWS Machine Learning Foundations](https://www.credly.com/go/P9lN1bcM)                                                                                              |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)                   | [AWS Cloud Foundations](https://www.credly.com/go/zmyQT8Gj)                                                                                                         |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) | [Agile Software Development](https://www.linkedin.com/learning/certificates/08ff8b2fc8cfe3bc0de4d654b154931fd45ecdcc736352ac585aa67e4cf4fee0?trk=share_certificate) |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Exploratory Data Analysis for ML](https://www.coursera.org/account/accomplishments/verify/6W13C0VP7DI1)                                                            |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Supervised ML: Regression](https://www.coursera.org/account/accomplishments/verify/9L3LC87QMV99)                                                                   |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Supervised ML: Classification](https://www.coursera.org/account/accomplishments/verify/HQU628ZTR3DP)                                                               |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Unsupervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/X3JQXR2XLBDV)                                                               |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Deep Learning and RL](https://www.coursera.org/account/accomplishments/verify/GJ5B0ZCZEFRA)                                                                        |
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [IBM ML Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/BYO35US25NKA)                                                     |
 
 ---
 
