@@ -259,11 +259,13 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=DaRkSouL36&theme=tokyo-night&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=38BDF8&area=true&hide_border=true"
-  alt="GITHUB ACTIVITY GRAPH"
-/>
+## ⚡ | ACTIVITY GRAPH
 
+<div align="center">
+  
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DaRkSouL36&theme=default"/>
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
