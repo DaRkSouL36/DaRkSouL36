@@ -1,35 +1,25 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=DaRkSouL36&label=PROFILE%20VIEWS&color=EE4B2B&style=flat" alt="DaRkSouL" /> </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&pause=850
-&center=true
-&vCenter=true
-&width=560
-&lines=👋+HEY%2C+WELCOME+TO+MY+GITHUB!;I'M+SHARAD+SHAHI;CSE+UNDERGRAD+%7C+ML+ENGINEER+IN+MAKING;I+BUILD+SMART+SYSTEMS+WITH+DATA+%26+CODE;LET'S+EXPLORE+🚀"
-  alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=850&center=true&width=560&lines=👋+HEY%2C+WELCOME+TO+MY+GITHUB!;I'M+SHARAD+SHAHI;CSE+UNDERGRAD+%7C+ML+ENGINEER+IN+MAKING;I+BUILD+SMART+SYSTEMS+WITH+DATA+%26+CODE;LET'S+EXPLORE+🚀"alt="Typing SVG" />
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </h1>
-<h1 align="center">🔬 SHARAD SHAHI</h1>
 <p align="center">
-  <!-- BANNER -->
   <img
     src="https://media.licdn.com/dms/image/v2/D5616AQFsUZQT04egcQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuJGF9nJYAY-/0/1767531638676?e=1769040000&v=beta&t=ghw25T1kqlN4fJDQcS8iDxcaZKkeWOT_IATwq0Eq9Vk"
-    height=""
+    width="100%"
     alt="Sharad Shahi Banner"
   />
 </p>
+<p align="center">
+  <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi Profile Photo"/>
+</p>
 
-<p align="center" style="margin-top: -75px;">
-  <!-- PROFILE -->
-  <img
-    src="https://media.licdn.com/dms/image/v2/D5603AQHzAfsy2hJhWg/profile-displayphoto-scale_200_200/B56ZuDLHncHkAY-/0/1767432289492?e=1769040000&v=beta&t=jilun6EA0-d8yud0JAdFw_d07P1LlUIVbXCIbKbyHB4"
-    width="120"
-    style="border-radius: 50%; border: 4px solid white;"
-    alt="Sharad Shahi Profile Photo"
-  />
+<p align="center">
+  ─────────────────────────
 </p>
 
 <p align="center">
@@ -56,7 +46,7 @@ font=Fira+Code
 
 > INTERESTED IN APPLIED MACHINE LEARNING, ML SYSTEMS ENGINEERING, AND DATA-DRIVEN PRODUCT DEVELOPMENT.
 
-<d align="justify">
+<div align="justify">
 
 I am a final-year **B.Tech Computer Science** undergraduate with a **Minor in Applied Machine Learning** offered by the **School of Electronics**, reflecting a strong **interdisciplinary foundation** across **software engineering, machine learning systems,** and **antenna simulation**. My primary focus lies in designing and building **data-driven applications** and **intelligent systems** that translate machine learning research into **scalable, real-world solutions**.
 
@@ -64,7 +54,7 @@ I bring solid fundamentals in **Data Structures & Algorithms**, **Statistical Le
 
 Driven by a strong inclination toward **applied AI**, I continuously explore the intersection of **machine learning, software systems,** and **engineering-heavy domains**, aiming to build solutions that are not only accurate but also **deployable, maintainable, and impactful**.
 
-</d>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -112,7 +102,7 @@ Driven by a strong inclination toward **applied AI**, I continuously explore the
 | **DATA VISUALIZATION** | ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![SEABORN](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white) |
 | **ML FRAMEWORKS** | ![SCIKIT-LEARN](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **DL FRAMEWORKS** | ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![KERAS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white) ![PYTORCH](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) |
-| **ML CONCEPTS & STRATEGIES** | ![REINFORCEMENT LEARNING](https://img.shields.io/badge/Reinforcement--Learning-512BD4?style=flat-square&logo=robotframework&logoColor=white) ![FEATURE ENGINEERING](https://img.shields.io/badge/Feature--Engineering-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ENSEMBLE LEARNING](https://img.shields.io/badge/Ensemble--Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HYPERPARAMETER TUNING](https://img.shields.io/badge/Hyperparameter--Tuning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MODEL INTERPRETABILITY](https://img.shields.io/badge/Model--Interpretability-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **ML CONCEPTS & STRATEGIES** | ![REINFORCEMENT LEARNING](https://img.shields.io/badge/Reinforcement--Learning-512BD4?style=flat-square&logo=robotframework&logoColor=white) ![FEATURE ENGINEERING](https://img.shields.io/badge/Feature--Engineering-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ENSEMBLE LEARNING](https://img.shields.io/badge/Ensemble--Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HYPERPARAMETER TUNING](https://img.shields.io/badge/Hyperparameter--Tuning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
@@ -186,7 +176,7 @@ Driven by a strong inclination toward **applied AI**, I continuously explore the
 |--------|-------|
 | **VERSION CONTROL & COLLABORATION** | ![GIT](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
 | **DEV ENVIRONMENTS** | <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="" height="23"/>![VS CODE](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visual-studio-code) ![JUPYTER](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white) ![ANACONDA](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) |
-| **CLOUD PLATFORMS** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="" height="20" style="margin-right: 10px;" /> | 
+| **CLOUD PLATFORMS** | <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="" height="20" />![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 
 | **API TESTING & DEPLOYMENT** | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **DOCUMENTATION & PRODUCTIVITY** | ![OVERLEAF](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf) ![MS OFFICE](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white) |
 
@@ -209,9 +199,9 @@ Driven by a strong inclination toward **applied AI**, I continuously explore the
 > RESEARCH-ORIENTED WORK FOCUSED ON ADAPTIVE SYSTEMS, STATISTICS-DRIVEN ML, AND DISTRIBUTED COMPUTING.
 
 🚧 **CURRENTLY BUILDING**  
-<d align="justify">
+<div align="justify">
 AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTING ENVIRONMENTS, FOCUSED ON SYSTEM-AWARE DECISION MAKING AND WORKLOAD-ADAPTIVE COMPUTATION PLACEMENT TO ENABLE EFFICIENT, RELIABLE, AND SCALABLE DISTRIBUTED EXECUTION.
-</d>
+</div>
 
 ---
 
@@ -269,16 +259,11 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## ⚡ | ACTIVITY GRAPH
-
-<div align="center">
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=DaRkSouL36&theme=tokyo-night&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=38BDF8&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.cyclic.app/graph?username=DaRkSouL36&theme=tokyo-night&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=38BDF8&area=true&hide_border=true"
   alt="GITHUB ACTIVITY GRAPH"
 />
 
-</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
