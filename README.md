@@ -1,148 +1,292 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub+page!;Hi%2C+I'm+Sharad+Shahi!;CSE+Undergrad+%7C+ML+Engineer+in+Making;Curious.+Creative.+Code-driven." alt="Typing SVG" />
-</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DaRkSouL36&label=PROFILE%20VIEWS&color=EE4B2B&style=flat" alt="DaRkSouL" /> </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&pause=850
+&center=true
+&vCenter=true
+&width=560
+&lines=👋+HEY%2C+WELCOME+TO+MY+GITHUB!;I'M+SHARAD+SHAHI;CSE+UNDERGRAD+%7C+ML+ENGINEER+IN+MAKING;I+BUILD+SMART+SYSTEMS+WITH+DATA+%26+CODE;LET'S+EXPLORE+🚀"
+  alt="Typing SVG" />
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
 <h1 align="center">🔬 SHARAD SHAHI</h1>
 <p align="center">
-  <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi Profile Photo"/>
+  <!-- BANNER -->
+  <img
+    src="https://media.licdn.com/dms/image/v2/D5616AQFsUZQT04egcQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuJGF9nJYAY-/0/1767531638676?e=1769040000&v=beta&t=ghw25T1kqlN4fJDQcS8iDxcaZKkeWOT_IATwq0Eq9Vk"
+    height=""
+    alt="Sharad Shahi Banner"
+  />
 </p>
+
+<p align="center" style="margin-top: -75px;">
+  <!-- PROFILE -->
+  <img
+    src="https://media.licdn.com/dms/image/v2/D5603AQHzAfsy2hJhWg/profile-displayphoto-scale_200_200/B56ZuDLHncHkAY-/0/1767432289492?e=1769040000&v=beta&t=jilun6EA0-d8yud0JAdFw_d07P1LlUIVbXCIbKbyHB4"
+    width="120"
+    style="border-radius: 50%; border: 4px solid white;"
+    alt="Sharad Shahi Profile Photo"
+  />
+</p>
+
 <p align="center">
-  <b> CSE Undergrad | Aspiring Machine Learning Engineer | NLP & Deep Learning Enthusiast</b><br>
+  <b> CSE Undergrad | Aspiring Machine Learning Engineer</b><br>
   <i>“Engineering intelligence through data, code, and curiosity!”</i>
 </p>
 
 <p align="center">
 <a href="mailto:sharadshahi36@gmail.com"><img src="https://img.shields.io/badge/email-sharadshahi36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nextgenml/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-DaRkSouL36-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://leetcode.com/u/Sharad_Shahi/"><img src="https://img.shields.io/badge/LeetCode-Sharad_Shahi-FFA116?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://codeforces.com/profile/DaRkSouL36"><img src="https://img.shields.io/badge/Codeforces-DaRkSouL36-1f8acb?style=for-the-badge"/></a>
-<a href="https://drive.google.com/file/d/1IzsV8bc1vcQQK2J7c_QDH54O0sLv6kf0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<br>
+<a href="https://github.com/DaRkSouL36"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://drive.google.com/file/d/1IzsV8bc1vcQQK2J7c_QDH54O0sLv6kf0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-9cf?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
 </p>
+
+---
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 💻 | ABOUT ME
 
-I'm a final-year B.Tech Computer Science undergraduate with a Minor in Applied Machine Learning offered by the School of Electronics, reflecting strong interdisciplinary grounding across software systems, machine learning, and antenna simulation. I specialize in building data-driven applications and intelligent systems that solve real-world problems using machine learning, deep learning, and natural language processing (NLP).
+> INTERESTED IN APPLIED MACHINE LEARNING, ML SYSTEMS ENGINEERING, AND DATA-DRIVEN PRODUCT DEVELOPMENT.
 
-With strong fundamentals in algorithms, data structures, and model optimization, I’ve led multiple end-to-end AI projects. My work reflects a passion for continuous learning, practical application, and innovation in the evolving field of Artificial Intelligence.
+<d align="justify">
 
----
+I am a final-year **B.Tech Computer Science** undergraduate with a **Minor in Applied Machine Learning** offered by the **School of Electronics**, reflecting a strong **interdisciplinary foundation** across **software engineering, machine learning systems,** and **antenna simulation**. My primary focus lies in designing and building **data-driven applications** and **intelligent systems** that translate machine learning research into **scalable, real-world solutions**.
+
+I bring solid fundamentals in **Data Structures & Algorithms**, **Statistical Learning**, and **Model Optimization**, with hands-on experience in developing **end-to-end ML pipelines**, from data acquisition and feature engineering to model training, evaluation, and API-based deployment. My work emphasizes **robustness, interpretability, and performance**, aligning closely with industry-grade ML practices.
+
+Driven by a strong inclination toward **applied AI**, I continuously explore the intersection of **machine learning, software systems,** and **engineering-heavy domains**, aiming to build solutions that are not only accurate but also **deployable, maintainable, and impactful**.
+
+</d>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 | CORE INTERESTS
 
-- Supervised & Unsupervised Learning
-- Deep Learning: ANNs, CNNs, RNNs, LSTMs
-- Natural Language Processing (NLP)
-- Model Deployment & API Integration
-- Data Cleaning, EDA & Feature Engineering
-- Scalable ML Pipelines
-- Responsible & Ethical AI
-- Antenna Design Electromagnetic Simulation (CST Microwave Studio)
+> INTERESTED IN BUILDING DATA-DRIVEN SYSTEMS THAT BRIDGE MACHINE LEARNING, DEPLOYMENT, AND ENGINEERING-HEAVY DOMAINS.
+
 ---
+
+🔹 **APPLIED MACHINE LEARNING FOR REAL-WORLD SYSTEMS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ SUPERVISED & UNSUPERVISED LEARNING, REGRESSION, ENSEMBLE METHODS
+
+🔹 **DEEP LEARNING ARCHITECTURES & REPRESENTATION LEARNING**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ ANNs, CNNs, RNNs, LSTMs FOR STRUCTURED DATA & TEXT
+
+🔹 **NATURAL LANGUAGE PROCESSING & LLM-AUGMENTED SYSTEMS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ TEXT PREPROCESSING, CLASSIFICATION, EXPLAINABILITY, LLM INTEGRATION
+
+🔹 **END-TO-END ML SYSTEM DEVELOPMENT**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ DATA CLEANING, EDA, FEATURE ENGINEERING, MODEL TRAINING & EVALUATION
+
+🔹 **MODEL DEPLOYMENT & API-DRIVEN ML APPLICATIONS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ FASTAPI, REAL-TIME INFERENCE, USER FEEDBACK LOOPS
+
+🔹 **SCALABLE & ADAPTIVE ML PIPELINES**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ WORKLOAD-AWARE MODELS, STATISTICAL + ML HYBRID DECISION SYSTEMS
+
+🔹 **RESPONSIBLE, INTERPRETABLE & ETHICAL AI**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ MODEL TRANSPARENCY, RELIABILITY, TRUST-AWARE SYSTEM DESIGN
+
+🔹 **ANTENNA DESIGN & ELECTROMAGNETIC SIMULATION COUPLED WITH ML**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ CST MICROWAVE STUDIO, DATA-DRIVEN ANTENNA OPTIMIZATION
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 | TECH STACK
 
+> TOOLS AND TECHNOLOGIES I USE TO BUILD, DEPLOY, AND SCALE INTELLIGENT SYSTEMS.
+
 ### 📚 MACHINE LEARNING & DEEP LEARNING
 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement--Learning-black?style=flat-square&logo=openai&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-yellow?style=flat-square&logo=python&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+| CATEGORY | STACK |
+|--------|-------|
+| **DATA HANDLING & SCIENTIFIC COMPUTING** | ![PANDAS](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NUMPY](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![SCIPY](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) |
+| **DATA VISUALIZATION** | ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![SEABORN](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white) |
+| **ML FRAMEWORKS** | ![SCIKIT-LEARN](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **DL FRAMEWORKS** | ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![KERAS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white) ![PYTORCH](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) |
+| **ML CONCEPTS & STRATEGIES** | ![REINFORCEMENT LEARNING](https://img.shields.io/badge/Reinforcement--Learning-512BD4?style=flat-square&logo=robotframework&logoColor=white) ![FEATURE ENGINEERING](https://img.shields.io/badge/Feature--Engineering-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ENSEMBLE LEARNING](https://img.shields.io/badge/Ensemble--Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HYPERPARAMETER TUNING](https://img.shields.io/badge/Hyperparameter--Tuning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MODEL INTERPRETABILITY](https://img.shields.io/badge/Model--Interpretability-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
-### 🐍 PROGRAMMING & SCRIPTING
+---
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+### 🐍 PROGRAMMING LANGUAGES
 
-### 🌐 WEB DEVELOPMENT & API
+| CATEGORY | STACK |
+|--------|-------|
+| **CORE LANGUAGES** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
+| **SCRIPTING & DATA-ORIENTED** | ![PYTHON](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white) |
 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+---
 
-### 📐 ANTENNA & SIMULATION
+<table width="100%">
+<tr>
 
-![CST Studio](https://img.shields.io/badge/CST--Microwave--Studio-blue?style=flat-square)
-![Origin](https://img.shields.io/badge/OriginLab-Data%20Analysis-orange?style=flat-square)
+<td width="50%" valign="top">
+
+<h3>🌐 WEB DEVELOPMENT & API</h3>
+
+<table>
+<tr><th>CATEGORY</th><th>STACK</th></tr>
+<tr>
+<td><b>FRONTEND</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+</td>
+</tr>
+<tr>
+<td><b>BACKEND & API</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📐 ANTENNA & SIMULATION</h3>
+
+<table>
+<tr><th>CATEGORY</th><th>STACK</th></tr>
+<tr>
+<td><b>EM SIMULATION</b></td>
+<td>
+<img src="https://img.shields.io/badge/CST--Microwave--Studio-blue?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>DATA ANALYSIS TOOLS</b></td>
+<td>
+<img src="https://img.shields.io/badge/OriginLab-Data%20Analysis-orange?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+
+---
 
 ### ⚙️ TOOLS & ENVIRONMENTS
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf)
-![MS Office](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+| CATEGORY | STACK |
+|--------|-------|
+| **VERSION CONTROL & COLLABORATION** | ![GIT](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
+| **DEV ENVIRONMENTS** | <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="" height="23"/>![VS CODE](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visual-studio-code) ![JUPYTER](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white) ![ANACONDA](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) |
+| **CLOUD PLATFORMS** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="" height="20" style="margin-right: 10px;" /> | 
+| **API TESTING & DEPLOYMENT** | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **DOCUMENTATION & PRODUCTIVITY** | ![OVERLEAF](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf) ![MS OFFICE](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 | CERTIFICATIONS
 
-> _Total of 9+ verified certifications from IBM, AWS, Coursera, and LinkedIn — covering foundational to advanced ML workflows._
+> INDUSTRY-RECOGNIZED CERTIFICATIONS COMPLEMENTING ML, SOFTWARE ENGINEERING, AND CLOUD FUNDAMENTALS.
 
-| Platform                                                                                                    | Certification                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)                   | [AWS Machine Learning Foundations](https://www.credly.com/go/P9lN1bcM)                                                                                              |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)                   | [AWS Cloud Foundations](https://www.credly.com/go/zmyQT8Gj)                                                                                                         |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) | [Agile Software Development](https://www.linkedin.com/learning/certificates/08ff8b2fc8cfe3bc0de4d654b154931fd45ecdcc736352ac585aa67e4cf4fee0?trk=share_certificate) |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Exploratory Data Analysis for ML](https://www.coursera.org/account/accomplishments/verify/6W13C0VP7DI1)                                                            |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Supervised ML: Regression](https://www.coursera.org/account/accomplishments/verify/9L3LC87QMV99)                                                                   |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Supervised ML: Classification](https://www.coursera.org/account/accomplishments/verify/HQU628ZTR3DP)                                                               |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Unsupervised Machine Learning](https://www.coursera.org/account/accomplishments/verify/X3JQXR2XLBDV)                                                               |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [Deep Learning and RL](https://www.coursera.org/account/accomplishments/verify/GJ5B0ZCZEFRA)                                                                        |
-| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)                         | [IBM ML Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/BYO35US25NKA)                                                     |
+| CATEGORY | PLATFORM | CERTIFICATION |
+|--------|----------|---------------|
+| ☁️ **CLOUD & INFRASTRUCTURE** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | **AWS CLOUD FOUNDATIONS** <br/> 🔗 [VIEW CREDENTIAL](https://www.credly.com/go/zmyQT8Gj) |
+| 🏗️ **SOFTWARE ENGINEERING & AGILE** | ![LINKEDIN](https://img.shields.io/badge/LINKEDIN%20LEARNING-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | **AGILE SOFTWARE DEVELOPMENT** <br/> 🔗 [VIEW CERTIFICATE](https://www.linkedin.com/learning/certificates/08ff8b2fc8cfe3bc0de4d654b154931fd45ecdcc736352ac585aa67e4cf4fee0) |
+| 💥 **MACHINE LEARNING** | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | **IBM ML PROFESSIONAL CERTIFICATE** <br/> 🔗 [VIEW CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/BYO35US25NKA) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📌 | WHAT I’M DOING NOW
 
-🚧 **Currently Building**:  
-A complete Fake News Detection system integrating NLP pipelines, LSTM-based classifiers, and a user-friendly web interface.
+> RESEARCH-ORIENTED WORK FOCUSED ON ADAPTIVE SYSTEMS, STATISTICS-DRIVEN ML, AND DISTRIBUTED COMPUTING.
 
-📘 **Learning Focus**:
-
-- Transformers & Attention Mechanisms
-- TensorFlow Model Optimization & Quantization
-- Python FastAPI for production-ready APIs
-- Real-time deployment with Streamlit and Docker
-
-🤝 **Open To Collaborate On**:
-
-- Applied ML/NLP use cases
-- Student research communities or hackathons
-- Lightweight ML systems for mobile or embedded platforms
+🚧 **CURRENTLY BUILDING**  
+<d align="justify">
+AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTING ENVIRONMENTS, FOCUSED ON SYSTEM-AWARE DECISION MAKING AND WORKLOAD-ADAPTIVE COMPUTATION PLACEMENT TO ENABLE EFFICIENT, RELIABLE, AND SCALABLE DISTRIBUTED EXECUTION.
+</d>
 
 ---
 
-## 📊 | GITHUB STATS
+📘 **LEARNING & EXPLORATION FOCUS**
+
+🔹 ADVANCED MACHINE LEARNING & DEEP LEARNING SYSTEMS  
+🔹 TRANSFORMERS, ATTENTION MECHANISMS, GANs & AUTOENCODERS  
+🔹 REINFORCEMENT LEARNING & ADAPTIVE DECISION SYSTEMS  
+🔹 NATURAL LANGUAGE PROCESSING & INTELLIGENT TEXT SYSTEMS  
+🔹 ML-BASED SIGNAL & DATA PROCESSING  
+🔹 STATISTICS-DRIVEN ML & UNCERTAINTY-AWARE SYSTEMS  
+🔹 TENSORFLOW MODEL OPTIMIZATION & QUANTIZATION  
+🔹 REAL-TIME ML DEPLOYMENT WITH AWS & DOCKER
+
+---
+
+🤝 **OPEN TO COLLABORATE ON**
+
+- **APPLIED MACHINE LEARNING & DEEP LEARNING PROJECTS WITH REAL-WORLD IMPACT**
+- **NLP, REPRESENTATION LEARNING, AND DATA-CENTRIC AI RESEARCH**
+- **SCALABLE, EFFICIENT, AND ADAPTIVE ML/DL SYSTEMS FOR PRACTICAL DEPLOYMENT**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 | GITHUB INSIGHTS
+
+> **CONSISTENT CONTRIBUTOR WITH A STRONG FOCUS ON MACHINE LEARNING, SYSTEMS, AND DEPLOYABLE AI.**
+
+
+<div align="center">
+
+<a href="https://github.com/DaRkSouL36">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaRkSouL36&theme=2077" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/DaRkSouL36">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaRkSouL36&theme=2077" height="185em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaRkSouL36&theme=2077&utcOffset=5.5" height="185em" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/DaRkSouL36">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaRkSouL36&theme=2077" height="185em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaRkSouL36&theme=2077" height="185em" />
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaRkSouL36&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats"/>
-  <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkSouL36&theme=radical&hide_border=false"/>
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=DaRkSouL36&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## ✍️ | Dev Quote of the Day
+## ⚡ | ACTIVITY GRAPH
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DaRkSouL36&theme=tokyo-night&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=38BDF8&area=true&hide_border=true"
+  alt="GITHUB ACTIVITY GRAPH"
+/>
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+## ✍️ | DEV QUOTE OF THE DAY
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
