@@ -9,7 +9,7 @@
 </h1>
 <p align="center">
   <img
-    src="[./BANNER[3].png](https://github.com/DaRkSouL36/DaRkSouL36/blob/main/BANNER%5B3%5D.png)"
+    src="./BANNER.png"
     width="100%"
     alt="Sharad Shahi Banner"
   />
