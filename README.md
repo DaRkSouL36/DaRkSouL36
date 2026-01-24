@@ -9,13 +9,13 @@
 </h1>
 <p align="center">
   <img
-    src="https://media.licdn.com/dms/image/v2/D5616AQFsUZQT04egcQ/profile-displaybackgroundimage-shrink_350_1400/B56ZuJGF9nJYAY-/0/1767531638676?e=1769040000&v=beta&t=ghw25T1kqlN4fJDQcS8iDxcaZKkeWOT_IATwq0Eq9Vk"
+    src="[./BANNER[3].png](https://github.com/DaRkSouL36/DaRkSouL36/blob/main/BANNER%5B3%5D.png)"
     width="100%"
     alt="Sharad Shahi Banner"
   />
 </p>
 <p align="center">
-  <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi Profile Photo"/>
+  <img src="https://github.com/DaRkSouL36.png" width="150" height="150" style="border-radius: 50%;" alt="Sharad Shahi"/>
 </p>
 
 <p align="center">
