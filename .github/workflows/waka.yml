@@ -1,0 +1,31 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # CORE DISPLAY OPTIONS
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+
+          # WEEKLY DEVELOPMENT BREAKDOWN
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 6
+
+          # VISUAL FORMATTING FOR READABILITY
+          SHOW_BAR: true
+          BAR_WIDTH: 25
+
+          # OPTIONAL SYSTEM-LEVEL STATS
+          SHOW_EDITORS: true
+          SHOW_OS: true
