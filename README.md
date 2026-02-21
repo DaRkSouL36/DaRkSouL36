@@ -274,16 +274,16 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 3 hrs 19 mins
+Total Time: 3 hrs 4 mins
 
-Python       1 hr 12 mins          █████████░░░░░░░░░░░░░░░░   35.63 %
-Markdown     37 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-TypeScript   34 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-C            28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Docker       11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-YAML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Python       1 hr 9 mins           █████████▒░░░░░░░░░░░░░░░   36.93 %
+Markdown     37 mins               █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+C            34 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+TypeScript   16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Docker       11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+YAML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
