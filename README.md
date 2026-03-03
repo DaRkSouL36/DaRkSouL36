@@ -274,16 +274,16 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2026 - To: 01 March 2026
+From: 23 February 2026 - To: 02 March 2026
 
-Total Time: 15 hrs 8 mins
+Total Time: 14 hrs 6 mins
 
-Python           4 hrs 51 mins         ████████░░░░░░░░░░░░░░░░░   31.84 %
-Java             4 hrs                 ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
-C++              2 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Markdown         1 hr 32 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-C                1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Git Config       34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python           5 hrs 36 mins         ██████████░░░░░░░░░░░░░░░   39.46 %
+Java             4 hrs                 ███████░░░░░░░░░░░░░░░░░░   28.21 %
+C++              1 hr 48 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Markdown         1 hr 32 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Git Config       34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Text             16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
