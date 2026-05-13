@@ -274,14 +274,14 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Total Time: 1 hr 23 mins
+Total Time: 9 hrs 10 mins
 
-HTML         1 hr 14 mins          ██████████████████████▒░░   89.19 %
-CSS          5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Markdown     3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+HTML         4 hrs 11 mins         ███████████▒░░░░░░░░░░░░░   45.64 %
+CSS          3 hrs 8 mins          ████████▓░░░░░░░░░░░░░░░░   34.24 %
+JavaScript   1 hr 47 mins          █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Markdown     3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
