@@ -1,8 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=DaRkSouL36&label=PROFILE%20VIEWS&color=EE4B2B&style=flat" alt="DaRkSouL" /> </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=850&center=true&width=560&lines=👋+HEY%2C+WELCOME+TO+MY+GITHUB!;I'M+SHARAD+SHAHI;CSE+UNDERGRAD+%7C+ML+ENGINEER+IN+MAKING;I+BUILD+SMART+SYSTEMS+WITH+DATA+%26+CODE;LET'S+EXPLORE+🚀"alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=850&center=true&width=650&lines=👋+HEY%2C+WELCOME+TO+MY+GITHUB!;I'M+SHARAD+SHAHI;SOFTWARE+ENGINEER+%7C+APPLIED+AI%2FML;BACKEND+%26+CLOUD+ENGINEERING;BUILDING+INTELLIGENT+%26+SCALABLE+SYSTEMS;TURNING+IDEAS+INTO+ENGINEERED+SOLUTIONS" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -11,7 +10,7 @@
   <img
     src="./BANNER.png"
     width="100%"
-    alt="Sharad Shahi Banner"
+    alt="Sharad Shahi"
   />
 </p>
 <p align="center">
@@ -23,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b> CSE Undergrad | Aspiring Machine Learning Engineer</b><br>
+  <b> SOFTWARE ENGINEERING | APPLIED AI/ML | BACKEND & CLOUD SYSTEMS</b><br>
   <i>“Engineering intelligence through data, code, and curiosity!”</i>
 </p>
 
@@ -44,141 +43,170 @@
 
 ## 💻 | ABOUT ME
 
-> INTERESTED IN APPLIED MACHINE LEARNING, ML SYSTEMS ENGINEERING, AND DATA-DRIVEN PRODUCT DEVELOPMENT.
+> SOFTWARE ENGINEER FOCUSED ON APPLIED AI/ML, BACKEND SYSTEMS, AND CLOUD-ENABLED APPLICATIONS.
 
 <div align="justify">
 
-I am a final-year **B.Tech Computer Science** undergraduate with a **Minor in Applied Machine Learning** offered by the **School of Electronics**, reflecting a strong **interdisciplinary foundation** across **software engineering, machine learning systems,** and **antenna simulation**. My primary focus lies in designing and building **data-driven applications** and **intelligent systems** that translate machine learning research into **scalable, real-world solutions**.
+I AM A **SOFTWARE ENGINEER** WITH A SPECIALIZATION IN **APPLIED ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING**, BACKED BY A STRONG FOUNDATION IN **COMPUTER SCIENCE** AND A MINOR IN **APPLIED MACHINE LEARNING**. MY TECHNICAL INTERESTS AND EXPERIENCE SPAN SOFTWARE DEVELOPMENT, INTELLIGENT APPLICATIONS, BACKEND ENGINEERING, AND CLOUD-BASED SYSTEMS.
 
-I bring solid fundamentals in **Data Structures & Algorithms**, **Statistical Learning**, and **Model Optimization**, with hands-on experience in developing **end-to-end ML pipelines**, from data acquisition and feature engineering to model training, evaluation, and API-based deployment. My work emphasizes **robustness, interpretability, and performance**, aligning closely with industry-grade ML practices.
+I HAVE HANDS-ON EXPERIENCE BUILDING **END-TO-END SOFTWARE AND ML APPLICATIONS**, COVERING DATA PROCESSING, FEATURE ENGINEERING, MODEL DEVELOPMENT, EVALUATION, API INTEGRATION, AND DEPLOYMENT. MY PROJECT WORK INCLUDES **DEEP LEARNING-BASED IMAGE RESTORATION, NLP-DRIVEN CLASSIFICATION, AND MACHINE LEARNING FOR ENGINEERING APPLICATIONS**.
 
-Driven by a strong inclination toward **applied AI**, I continuously explore the intersection of **machine learning, software systems,** and **engineering-heavy domains**, aiming to build solutions that are not only accurate but also **deployable, maintainable, and impactful**.
+BEYOND MODEL DEVELOPMENT, I AM INTERESTED IN THE ENGINEERING THAT MAKES APPLICATIONS **SCALABLE, RELIABLE, AND MAINTAINABLE**. I FOCUS ON WRITING CLEAN CODE, DEVELOPING ROBUST BACKEND SERVICES, INTEGRATING AI CAPABILITIES INTO SOFTWARE, AND EXPLORING CLOUD AND DISTRIBUTED SYSTEMS.
+
+MY GOAL IS TO BUILD **PRACTICAL, WELL-ENGINEERED SOFTWARE** THAT COMBINES INTELLIGENT COMPUTATION WITH SOUND SOFTWARE ENGINEERING PRINCIPLES.
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 | CORE INTERESTS
+## 🚀 | FEATURED PROJECTS
 
-> INTERESTED IN BUILDING DATA-DRIVEN SYSTEMS THAT BRIDGE MACHINE LEARNING, DEPLOYMENT, AND ENGINEERING-HEAVY DOMAINS.
+> ENGINEERING PROJECTS SHOWCASING MY WORK ACROSS APPLIED AI, MACHINE LEARNING, COMPUTER VISION, AND SCALABLE SOFTWARE SYSTEMS.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [LUMA-FACE](https://github.com/DaRkSouL36/LUMA-FACE)
 
 ---
 
-🔹 **APPLIED MACHINE LEARNING FOR REAL-WORLD SYSTEMS**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ SUPERVISED & UNSUPERVISED LEARNING, REGRESSION, ENSEMBLE METHODS
+**DEEP LEARNING-BASED FACE RESTORATION & SUPER-RESOLUTION**
 
-🔹 **DEEP LEARNING ARCHITECTURES & REPRESENTATION LEARNING**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ ANNs, CNNs, RNNs, LSTMs FOR STRUCTURED DATA & TEXT
+A COMPUTER VISION APPLICATION THAT RESTORES DEGRADED FACIAL IMAGES AND ENHANCES IMAGE RESOLUTION THROUGH GENERATIVE DEEP LEARNING MODELS.
 
-🔹 **NATURAL LANGUAGE PROCESSING & LLM-AUGMENTED SYSTEMS**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ TEXT PREPROCESSING, CLASSIFICATION, EXPLAINABILITY, LLM INTEGRATION
+**ARCHITECTURE & TECHNOLOGY**
+- **FRONTEND:** Next.js, TypeScript, Tailwind CSS
+- **BACKEND:** FastAPI, Pydantic, Uvicorn
+- **AI/ML:** PyTorch, GFPGAN, Real-ESRGAN, InsightFace, OpenCV
+- **INFRASTRUCTURE:** Docker, Docker Compose, Nginx, AWS EC2
 
-🔹 **END-TO-END ML SYSTEM DEVELOPMENT**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ DATA CLEANING, EDA, FEATURE ENGINEERING, MODEL TRAINING & EVALUATION
+**ENGINEERING CONTRIBUTIONS**
+- INTEGRATED FACE RESTORATION AND IMAGE SUPER-RESOLUTION PIPELINES.
+- DEVELOPED FRONTEND-TO-BACKEND IMAGE PROCESSING WORKFLOWS.
+- IMPLEMENTED MODEL MANAGEMENT AND INFERENCE COMPONENTS.
+- WORKED ON CONTAINERIZATION AND CLOUD DEPLOYMENT.
 
-🔹 **MODEL DEPLOYMENT & API-DRIVEN ML APPLICATIONS**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ FASTAPI, REAL-TIME INFERENCE, USER FEEDBACK LOOPS
+**REPOSITORY-REPORTED BENCHMARKS**
+- PSNR: **~28.5 dB**
+- SSIM: **> 0.85**
+- IDENTITY RETENTION: **~96%**
+- INFERENCE TIME: **< 4 SECONDS** (REPORTED NVIDIA T4 TEST)
 
-🔹 **SCALABLE & ADAPTIVE ML PIPELINES**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ WORKLOAD-AWARE MODELS, STATISTICAL + ML HYBRID DECISION SYSTEMS
+**ENGINEERING FOCUS:** COMPUTER VISION · GENERATIVE AI · MODEL INFERENCE · BACKEND ENGINEERING
 
-🔹 **RESPONSIBLE, INTERPRETABLE & ETHICAL AI**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ MODEL TRANSPARENCY, RELIABILITY, TRUST-AWARE SYSTEM DESIGN
+</td>
+<td width="50%" valign="top">
 
-🔹 **ANTENNA DESIGN & ELECTROMAGNETIC SIMULATION COUPLED WITH ML**  
-&nbsp;&nbsp;&nbsp;&nbsp;▸ CST MICROWAVE STUDIO, DATA-DRIVEN ANTENNA OPTIMIZATION
+### 📰 [FAKE NEWS DETECTION](https://github.com/DaRkSouL36/FAKE-NEWS-DETECTION)
+
+---
+
+**NLP-POWERED NEWS CLASSIFICATION SYSTEM WITH LLM INTEGRATION**
+
+AN END-TO-END MACHINE LEARNING APPLICATION THAT ANALYZES NEWS CONTENT AND CLASSIFIES ARTICLES AS REAL OR FAKE USING NATURAL LANGUAGE PROCESSING AND CLASSICAL ML MODELS.
+
+**ARCHITECTURE & TECHNOLOGY**
+- **FRONTEND:** HTML5, CSS3, JavaScript
+- **BACKEND:** Python, FastAPI, REST APIs
+- **NLP:** TF-IDF, TEXT PREPROCESSING
+- **ML:** Logistic Regression, Random Forest, SVM
+- **LLM INTEGRATION:** Hugging Face Transformers, Microsoft Phi-2
+
+**ENGINEERING CONTRIBUTIONS**
+- DEVELOPED TEXT PREPROCESSING AND TF-IDF FEATURE EXTRACTION PIPELINES.
+- INTEGRATED MODEL INFERENCE WITH A FASTAPI BACKEND.
+- BUILT AN INTERACTIVE WEB INTERFACE WITH MODEL SELECTION AND SPEECH FEATURES.
+- EXPLORED LLM-ASSISTED EXPLANATIONS AND USER FEEDBACK COLLECTION.
+
+**MODEL EVALUATION**
+- **MULTIPLE CLASSIFIERS**: LOGISTIC REGRESSION, RANDOM FOREST, SVM AND DEEP LEARNING MODELS SUCH AS CNN, LSTM.
+- **EVALUATION METRICS**: ACCURACY, PRECISION, RECALL AND F1-SCORE.
+
+**ENGINEERING FOCUS:** NLP · CLASSICAL ML · MODEL COMPARISON · API DEVELOPMENT
+
+</td>
+<td width="50%" valign="top"
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 💼 | CORE INTERESTS
+
+> INTERESTED IN BUILDING SCALABLE, PRODUCTION-READY SOFTWARE AND INTELLIGENT SYSTEMS THAT BRIDGE APPLIED AI, BACKEND ENGINEERING, DATA INFRASTRUCTURE, AND CLOUD TECHNOLOGIES.
+
+---
+
+🔹 **APPLIED AI, MACHINE LEARNING & DEEP LEARNING**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ SUPERVISED & UNSUPERVISED LEARNING, NEURAL NETWORKS, PREDICTIVE MODELING, ENSEMBLE METHODS, FEATURE ENGINEERING, MODEL OPTIMIZATION
+
+🔹 **GENERATIVE AI, NLP & INTELLIGENT APPLICATIONS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ LLM APPLICATIONS, NLP PIPELINES, RETRIEVAL-AUGMENTED GENERATION (RAG), AI AGENTS, VECTOR DATABASES, PROMPT ENGINEERING
+
+🔹 **SOFTWARE ENGINEERING, FULL-STACK DEVELOPMENT & BACKEND SYSTEMS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸PYTHON, JAVA, FASTAPI, NEXT.JS, TYPESCRIPT, REST API DESIGN, OBJECT-ORIENTED DESIGN, SOLID PRINCIPLES, DESIGN PATTERNS, ASYNCHRONOUS PROGRAMMING, DATABASE DESIGN, AUTHENTICATION, SYSTEM DESIGN
+
+🔹 **DATA ENGINEERING & DISTRIBUTED SYSTEMS**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ SQL, POSTGRESQL, ETL/ELT PIPELINES, DATA MODELING, DATA TRANSFORMATION, APACHE SPARK, DATABRICKS, WORKFLOW ORCHESTRATION
+
+🔹 **CLOUD, DEVOPS & MLOPS ENGINEERING**  
+&nbsp;&nbsp;&nbsp;&nbsp;▸ AWS, DOCKER, KUBERNETES, NGINX, CI/CD, CLOUD DEPLOYMENT, MODEL SERVING
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 | TECH STACK
 
-> TOOLS AND TECHNOLOGIES I USE TO BUILD, DEPLOY, AND SCALE INTELLIGENT SYSTEMS.
+> TOOLS AND TECHNOLOGIES I USE TO BUILD, TRAIN, OPTIMIZE, AND DEPLOY INTELLIGENT SYSTEMS.
 
-### 📚 MACHINE LEARNING & DEEP LEARNING
+## 🧠 | MACHINE LEARNING & DEEP LEARNING
 
-| CATEGORY | STACK |
-|--------|-------|
-| **DATA HANDLING & SCIENTIFIC COMPUTING** | ![PANDAS](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NUMPY](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![SCIPY](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) |
-| **DATA VISUALIZATION** | ![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![SEABORN](https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square&logo=python&logoColor=white) |
-| **ML FRAMEWORKS** | ![SCIKIT-LEARN](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **DL FRAMEWORKS** | ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![KERAS](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white) ![PYTORCH](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) |
-| **ML CONCEPTS & STRATEGIES** | ![REINFORCEMENT LEARNING](https://img.shields.io/badge/Reinforcement--Learning-512BD4?style=flat-square&logo=robotframework&logoColor=white) ![FEATURE ENGINEERING](https://img.shields.io/badge/Feature--Engineering-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ENSEMBLE LEARNING](https://img.shields.io/badge/Ensemble--Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HYPERPARAMETER TUNING](https://img.shields.io/badge/Hyperparameter--Tuning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-4B32C3?style=flat-square)
 
----
+## 🤖 | GENERATIVE AI & COMPUTER VISION
 
-### 🐍 PROGRAMMING LANGUAGES
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-5C6BC0?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-| CATEGORY | STACK |
-|--------|-------|
-| **CORE LANGUAGES** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
-| **SCRIPTING & DATA-ORIENTED** | ![PYTHON](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=sqlite&logoColor=white) |
+## ⚙️ | SOFTWARE & BACKEND ENGINEERING
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<table width="100%">
-<tr>
+## ☁️ | CLOUD & DEVOPS
 
-<td width="50%" valign="top">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<h3>🌐 WEB DEVELOPMENT & API</h3>
+## 💻 | PROGRAMMING LANGUAGES
 
-<table>
-<tr><th>CATEGORY</th><th>STACK</th></tr>
-<tr>
-<td><b>FRONTEND</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-</td>
-</tr>
-<tr>
-<td><b>BACKEND & API</b></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📐 ANTENNA & SIMULATION</h3>
-
-<table>
-<tr><th>CATEGORY</th><th>STACK</th></tr>
-<tr>
-<td><b>EM SIMULATION</b></td>
-<td>
-<img src="https://img.shields.io/badge/CST--Microwave--Studio-blue?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td><b>DATA ANALYSIS TOOLS</b></td>
-<td>
-<img src="https://img.shields.io/badge/OriginLab-Data%20Analysis-orange?style=flat-square"/>
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-### ⚙️ TOOLS & ENVIRONMENTS
-
-| CATEGORY | STACK |
-|--------|-------|
-| **VERSION CONTROL & COLLABORATION** | ![GIT](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
-| **DEV ENVIRONMENTS** | <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="" height="23"/>![VS CODE](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=visual-studio-code) ![JUPYTER](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=Jupyter&logoColor=white) ![ANACONDA](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) |
-| **CLOUD PLATFORMS** | <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="" height="20" />![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | 
-| **API TESTING & DEPLOYMENT** | ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **DOCUMENTATION & PRODUCTIVITY** | ![OVERLEAF](https://img.shields.io/badge/Overleaf-LaTeX-green?style=flat-square&logo=Overleaf) ![MS OFFICE](https://img.shields.io/badge/MS--Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white) |
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -194,35 +222,46 @@ Driven by a strong inclination toward **applied AI**, I continuously explore the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📌 | WHAT I’M DOING NOW
+## 📌 | WHAT I'M DOING NOW
 
-> RESEARCH-ORIENTED WORK FOCUSED ON ADAPTIVE SYSTEMS, STATISTICS-DRIVEN ML, AND DISTRIBUTED COMPUTING.
+> BUILDING INTELLIGENT SOFTWARE SYSTEMS THAT COMBINE MACHINE LEARNING, BACKEND ENGINEERING, AND DISTRIBUTED COMPUTING.
 
-🚧 **CURRENTLY BUILDING**  
+🚧 **CURRENTLY BUILDING**
+
 <div align="justify">
-AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTING ENVIRONMENTS, FOCUSED ON SYSTEM-AWARE DECISION MAKING AND WORKLOAD-ADAPTIVE COMPUTATION PLACEMENT TO ENABLE EFFICIENT, RELIABLE, AND SCALABLE DISTRIBUTED EXECUTION.
+AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IoT–EDGE–CLOUD COMPUTING ENVIRONMENTS, FOCUSED ON SYSTEM-AWARE WORKLOAD SCHEDULING, INTELLIGENT COMPUTATION PLACEMENT, RESOURCE OPTIMIZATION, AND EFFICIENT DISTRIBUTED EXECUTION.
 </div>
 
 ---
 
-📘 **LEARNING & EXPLORATION FOCUS**
+**CURRENT ENGINEERING OBJECTIVES**
 
-🔹 ADVANCED MACHINE LEARNING & DEEP LEARNING SYSTEMS  
-🔹 TRANSFORMERS, ATTENTION MECHANISMS, GANs & AUTOENCODERS  
-🔹 REINFORCEMENT LEARNING & ADAPTIVE DECISION SYSTEMS  
-🔹 NATURAL LANGUAGE PROCESSING & INTELLIGENT TEXT SYSTEMS  
-🔹 ML-BASED SIGNAL & DATA PROCESSING  
-🔹 STATISTICS-DRIVEN ML & UNCERTAINTY-AWARE SYSTEMS  
-🔹 TENSORFLOW MODEL OPTIMIZATION & QUANTIZATION  
-🔹 REAL-TIME ML DEPLOYMENT WITH AWS & DOCKER
+- DEVELOP ADAPTIVE, ML-BASED TASK OFFLOADING STRATEGIES.
+- EXPLORE INTELLIGENT WORKLOAD SCHEDULING AND RESOURCE ALLOCATION.
+- EVALUATE PERFORMANCE AND EXECUTION EFFICIENCY ACROSS EDGE–CLOUD ENVIRONMENTS.
+- INVESTIGATE SCALABILITY, RELIABILITY, AND SYSTEM-AWARE DECISION-MAKING.
 
 ---
 
 🤝 **OPEN TO COLLABORATE ON**
 
-- **APPLIED MACHINE LEARNING & DEEP LEARNING PROJECTS WITH REAL-WORLD IMPACT**
-- **NLP, REPRESENTATION LEARNING, AND DATA-CENTRIC AI RESEARCH**
-- **SCALABLE, EFFICIENT, AND ADAPTIVE ML/DL SYSTEMS FOR PRACTICAL DEPLOYMENT**
+- APPLIED AI/ML ENGINEERING AND INTELLIGENT APPLICATIONS.
+- BACKEND DEVELOPMENT AND SCALABLE SOFTWARE SYSTEMS.
+- GENERATIVE AI, NLP AND PRACTICAL LLM APPLICATIONS.
+- DISTRIBUTED COMPUTING, CLOUD AND AUTOMATION-DRIVEN PROJECTS.
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 | ENGINEERING MINDSET
+
+> BUILDING SOFTWARE THAT GOES BEYOND WORKING PROTOTYPES.
+
+
+- **CLEAN CODE:** WRITING READABLE, MODULAR AND MAINTAINABLE SOFTWARE.
+- **ENGINEERING RIGOR:** MAKING DATA-DRIVEN DECISIONS AND VALIDATING ASSUMPTIONS.
+- **SCALABILITY:** DESIGNING SYSTEMS WITH PERFORMANCE AND GROWTH IN MIND.
+- **RELIABILITY:** PRIORITIZING TESTING, ROBUSTNESS AND PREDICTABLE BEHAVIOR.
+- **CONTINUOUS IMPROVEMENT:** LEARNING, EXPERIMENTING AND REFINING SOLUTIONS THROUGH ITERATION.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -266,22 +305,6 @@ AN ADAPTIVE, ML-DRIVEN TASK OFFLOADING FRAMEWORK FOR IOT–EDGE–CLOUD COMPUTIN
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DaRkSouL36&theme=default"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 📊 | WEEKLY DEVELOPMENT 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
